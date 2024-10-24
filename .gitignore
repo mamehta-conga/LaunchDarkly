@@ -1,5 +1,6 @@
 
 .vs/
 *.vsidx
-env/
+.env/
 venv/
+env/
